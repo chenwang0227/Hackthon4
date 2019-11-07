@@ -9,3 +9,6 @@ Finance
 
 # Technologies used
 Tezos Smart contract
+
+# Participants
+Allie K. Miller: Alliekk@gmail.com
