@@ -11,4 +11,5 @@ Finance
 Tezos Smart contract
 
 # Participants
-Allie K. Miller: Alliekk@gmail.com
+Marcus Lee: shengwel@andrew.cmu.edu</br>
+Can Cui: cancui@andrew.cmu.edu
